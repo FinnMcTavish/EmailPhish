@@ -1,0 +1,2 @@
+# EmailPhish
+Easy phishing attack
